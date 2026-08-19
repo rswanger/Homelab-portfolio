@@ -35,12 +35,10 @@
             "id": "351cbb95f37fa518",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Pfsense Setup.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Pfsense Setup"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -239,7 +237,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pfsense Setup.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -266,53 +263,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "a59cf17aa3968d76",
+  "active": "351cbb95f37fa518",
   "lastOpenFiles": [
+    "comptia a+/Chapter 4.md",
+    "Projects/Tier 1 and 2 Job Targets.md",
+    "Projects/Home Lab v1/Pasted image 20260813142428.png",
+    "Projects/Home Lab v1/PFSense.md",
+    "Projects/Home Lab v1/Intranet Topology.md",
+    "Projects/Home Lab v1",
+    "Projects/Home Lab v1/Pasted image 20260813143953.png",
+    "Projects/Home Lab v1/Mission Statement.md",
+    "Projects/Home Lab v1/Attack box.md",
+    "Pfsense Setup.pdf",
+    "Numbers.md",
     "Projects/Target companies desmoines cyber sec and msp.pdf",
     "Projects/Resume_Robert_Swanger_IT_Internship_2026-08.pdf",
     "Projects/Resume.md",
     "Projects/~$rget_Companies_DM_Cybersecurity.docx",
     "Projects/Target_Companies_DM_Cybersecurity.docx",
-    "Projects/Tier 1 and 2 Job Targets.md",
     "Projects/Untitled.md",
-    "Projects/Pasted image 20260813165204.png",
-    "Projects/Pasted image 20260813165108.png",
-    "Pfsense Setup.pdf",
-    "Projects/Pasted image 20260813154836.png",
-    "Projects/Pasted image 20260813154538.png",
-    "Projects/Pasted image 20260813152137.png",
-    "Projects/Pasted image 20260813150237.png",
-    "Projects/Pasted image 20260813150202.png",
-    "Projects/Pasted image 20260813145821.png",
-    "Projects/Pasted image 20260813144635.png",
-    "Projects/Pasted image 20260813143953.png",
-    "Projects/Pfsense Setup.md",
-    "Projects/Mission Statement.md",
-    "Projects/PFSense.md",
-    "Projects/Intranet Topology.md",
+    "Projects/Home Lab v1/Pasted image 20260813165204.png",
+    "Projects/Home Lab v1/Pasted image 20260813165108.png",
+    "Projects/Home Lab v1/Pasted image 20260813154836.png",
+    "Projects/Home Lab v1/Pasted image 20260813154538.png",
+    "Projects/Home Lab v1/Pasted image 20260813152137.png",
+    "Projects/Home Lab v1/Pasted image 20260813150237.png",
+    "Projects/Home Lab v1/Pasted image 20260813150202.png",
+    "Projects/Home Lab v1/Pasted image 20260813145821.png",
+    "Projects/Home Lab v1/Pfsense Setup.md",
     "Projects/Sec Onion.md",
     "Projects/PFsense.md",
     "Projects/serverinfo.md",
-    "Projects/Attack box.md",
     "Projects/Dc01.md",
     "Projects/Dc01 win22 server.md",
     "Projects/Welcome.md",
     "Projects",
-    "Chapter 4.md",
-    "Core 1 Chapter 3.md",
+    "comptia a+/Core 1 Chapter 3.md",
     "Python/Methods.md",
     "Create function.md",
     "Python/Python Studies.md",
-    "Numbers.md",
-    "Core 1 Chapter 2.md",
-    "Core 1 Chapter 1.md",
+    "comptia a+/Core 1 Chapter 2.md",
+    "comptia a+/Core 1 Chapter 1.md",
     "comptia a+/CompTIA A+ studies.md",
     "comptia a+/Core 1.md",
     "scripts.md",
     "Python",
     "comptia a+",
     "Untitled.canvas",
-    "Home Lab",
-    "Untitled.base"
+    "Home Lab .01 (dead)"
   ]
 }
