@@ -1,0 +1,1 @@
+Pseudocode is an informal, language-agnostic way to plan the logic of a program using plain English and basic coding structures like loops and conditionals. While it doesn't follow strict syntax, using it with Python is popular because ==Python's own syntax is already very close to human-readable pseudocode==
