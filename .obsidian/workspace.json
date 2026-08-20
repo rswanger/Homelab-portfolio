@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Home Lab v1/PFSense.md",
+                "file": "Projects/Home Lab v1/Pfsense Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PFSense"
+              "title": "Pfsense Setup"
             }
           },
           {
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Home Lab v1/PFSense.md",
+                "file": "Projects/Home Lab v1/Pfsense Setup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -284,6 +284,7 @@
   },
   "active": "df69021972d2aec8",
   "lastOpenFiles": [
+    "Projects/Home Lab v1/PFSense.md",
     "Projects/Home Lab v1/Intranet Topology.md",
     "Projects/Home Lab v1/Attack box.md",
     "Roadmap/Tier 1 and 2 Job Targets.md",
@@ -300,7 +301,6 @@
     "Python/Create function.md",
     "comptia a+/Chapter 4.md",
     "Projects/Home Lab v1/Pasted image 20260813142428.png",
-    "Projects/Home Lab v1/PFSense.md",
     "Projects/Home Lab v1",
     "Projects/Home Lab v1/Pasted image 20260813143953.png",
     "Projects/Home Lab v1/Mission Statement.md",
