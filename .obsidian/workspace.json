@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap/Tier 1 and 2 Job Targets.md",
+                "file": "Projects/Home Lab v1/PFSense.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tier 1 and 2 Job Targets"
+              "title": "PFSense"
             }
           },
           {
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roadmap/Tier 1 and 2 Job Targets.md",
+                "file": "Projects/Home Lab v1/PFSense.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,8 +282,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "a59cf17aa3968d76",
+  "active": "df69021972d2aec8",
   "lastOpenFiles": [
+    "Projects/Home Lab v1/Intranet Topology.md",
+    "Projects/Home Lab v1/Attack box.md",
+    "Roadmap/Tier 1 and 2 Job Targets.md",
     "Roadmap",
     "Roadmap/Target companies desmoines cyber sec and msp.pdf",
     "Roadmap/Roadmap For Future 5-19-26.md",
@@ -296,14 +299,11 @@
     "Trouble Tickets",
     "Python/Create function.md",
     "comptia a+/Chapter 4.md",
-    "Roadmap/Tier 1 and 2 Job Targets.md",
     "Projects/Home Lab v1/Pasted image 20260813142428.png",
     "Projects/Home Lab v1/PFSense.md",
-    "Projects/Home Lab v1/Intranet Topology.md",
     "Projects/Home Lab v1",
     "Projects/Home Lab v1/Pasted image 20260813143953.png",
     "Projects/Home Lab v1/Mission Statement.md",
-    "Projects/Home Lab v1/Attack box.md",
     "Python/Numbers.md",
     "Projects/~$rget_Companies_DM_Cybersecurity.docx",
     "Projects/Target_Companies_DM_Cybersecurity.docx",
@@ -329,7 +329,6 @@
     "Python/Python Studies.md",
     "comptia a+/Core 1 Chapter 2.md",
     "comptia a+/Core 1 Chapter 1.md",
-    "Python",
     "Untitled.canvas"
   ]
 }
